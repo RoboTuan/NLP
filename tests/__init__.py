@@ -1,1 +1,1 @@
-from src.models.modules.MultiheadAttention import MultiheadAttention
+from src.models.modules.multiheadattention import MultiheadAttention
