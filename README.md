@@ -1,13 +1,7 @@
-# NLP
-NLP models from scratch in PyTorch
-
-To run a specific script living inside a module do as follows:
-python -m path.to.fle (without .py extension)
----
-
 # NLP Models and Tasks
 
 Welcome to the NLP Models and Tasks repository! This repository aims to provide a practical and accessible way for beginners to learn about natural language processing (NLP) using PyTorch. 
+To run a specific file inside a module do as follows: `python -m path.to.file` (without .py extension).
 
 The repository includes implementations of various NLP models and tasks such as:
 * Transformer model for machine translation and classification (TODO)
